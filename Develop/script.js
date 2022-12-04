@@ -46,7 +46,7 @@ function generatePassword() {
     "abcdefghijklmnopqrstuvwxyz",
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "0123456789",
-    "~!@#$%^&*()_+<>?-=",
+    " !\"#$%&'()*+,-./:;<=>?@[\\\]^_`{|}~",
   ];
   let charactersInUse = "";
   let x = 0;
